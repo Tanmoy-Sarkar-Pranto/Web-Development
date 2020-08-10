@@ -7,9 +7,10 @@
 .head {
 	margin: 100px;
 	text-align: center;
-	font-family: Helvetica;
+	font-family: fantasy;
 	font-weight: bold;
-	font-size: 175%;
+	font-size: 300%;
+	color: red;
 }
 
 section>div{
@@ -29,54 +30,56 @@ p{
 }
 
 .row {
-	width: 90%;
+	width: 100%;
 }
 
 .fhead{
 	float: right;
-	width: 100px;
+	width: 150px;
 	padding: 5px;
 	margin: 0px;
 	border: 1px solid black;
 	text-align: center;
-	font-size: 125%;
+	font-size: 150%;
 	font-weight: bold;
 	background-color: pink;
-
+	font-family: arial;
 }
 .shead{
 	float: right;
-	width: 100px;
+	width: 150px;
 	padding: 5px;
 	margin: 0px;
 	border: 1px solid black;
 	text-align: center;
-	font-size: 125%;
+	font-size: 150%;
 	font-weight: bold;
 	background-color: maroon;
-
+	font-family: arial;
 }
 .thead{
 	float: right;
-	width: 100px;
+	width: 150px;
 	padding: 5px;
 	margin: 0px;
 	border: 1px solid black;
 	text-align: center;
-	font-size: 125%;
+	font-size: 150%;
 	font-weight: bold;
 	background-color: skyblue;
-
+	font-family: arail;
 }
-.content {
+.para {
 		padding: 10px 5px 10px 5px;
 		border: none;
 		background-color: gray;
 		font-family: Helvetica;
 		color: black;
 		margin: 0px;
-		height: 200px;
+		height: 300px;
 		overflow: auto;
+		font-family: cursive;
+		font-size: 110%;
 	}
 
 
