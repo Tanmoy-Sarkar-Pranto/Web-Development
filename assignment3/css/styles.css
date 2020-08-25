@@ -10,13 +10,13 @@ body {
 .navbar{
 	border-radius: 0px;
 	background-color: darkblue;
-	padding-left: 30px;
+	/*padding-left: 30px;*/
 }
 
 .navbar-brand{
   font-size: 2.8em;
   color: red;
-  padding-left: 25px;
+  padding-left: 55px;
 
 }
 
